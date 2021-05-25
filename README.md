@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="#"><img src="https://i.ibb.co/4tWKYXz/Orange-and-Blue-Illustrative-Coping-with-Stress-Landscape-COVID-Flyer.gif" alt="Logo of Program" width="300"></a>
+  <a href="#"><img src="https://i.ibb.co/4tWKYXz/Orange-and-Blue-Illustrative-Coping-with-Stress-Landscape-COVID-Flyer.gif" alt="Logo of Program" width="400"></a>
   <br>
     Cowin Vaccine Availability Notifier Telegram Bot
   <br>
@@ -38,8 +38,8 @@ Telegram Chat.
 
 #### 1. Clone the repository
 ```sh
-git clone https://github.com/arhamshah/#
-cd #
+git clone https://github.com/arhamshah/Cowin_Vaccine_Availability_Bot.git
+cd Cowin_Vaccine_Availability_Bot
 ```
 #### 2. Create Virtual Environment 
 - First create an environment
