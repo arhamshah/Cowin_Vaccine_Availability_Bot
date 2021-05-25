@@ -58,7 +58,6 @@ pip install -r requirements.txt
 
 ## Working of Bot
 <a href="#"><img src="https://i.ibb.co/hKfNmLT/Screenshot-20210525-235437.jpg" alt="Working of Project" width="300"></a>
-![](https://i.ibb.co/hKfNmLT/Screenshot-20210525-235437.jpg)
 
 ## How it Works
 - Data for upto 7 days is extracted from an API.
