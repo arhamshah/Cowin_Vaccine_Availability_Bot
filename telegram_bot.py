@@ -1,6 +1,6 @@
 import requests
 
-from constants import chat_id, base_url
+from constants import chat_id, telegram_base_url
 
 
 def initiate_send_message():
@@ -9,7 +9,7 @@ def initiate_send_message():
     :return: request_send_message()
     '''
     chat_id
-    base_url
+    telegram_base_url
 
     def request_send_message(msg):
         '''
@@ -17,6 +17,6 @@ def initiate_send_message():
         :param msg: Message to send (String)
         :return: None
         '''
-        requests.get(base_url + chat_id + "&text=" + msg)
+        requests.get(telegram_base_url + chat_id + "&text=" + msg)
 
     return request_send_message

@@ -1,6 +1,6 @@
 # Change these variables to your custom settings for telegram configuration
 chat_id = "Your Config"
-base_url = "Your Config"
+telegram_base_url = "Your Config"
 
 # Change these variables to your custom settings for district configuration
 # Default district_id = Ahmedabad
