@@ -42,7 +42,6 @@ git clone https://github.com/arhamshah/Cowin_Vaccine_Availability_Bot.git
 cd Cowin_Vaccine_Availability_Bot
 ```
 #### 2. Create Virtual Environment 
-- First create an environment
 ```sh
 python -m venv c:\path\to\myenv
 ```
