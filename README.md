@@ -46,10 +46,6 @@ cd Cowin_Vaccine_Availability_Bot
 ```sh
 python -m venv c:\path\to\myenv
 ```
-- Install Requirements from requirements.txt
-```sh
-pip install -r requirements.txt
-```
 
 #### 3. Download & Install all the Dependencies
 ```sh
