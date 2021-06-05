@@ -58,7 +58,7 @@ pip install -r requirements.txt
 - Data for upto 7 days is extracted from an API.
 - Iterating over data to check for available vaccine doses.
 - If any dose available then a message is sent via Telegram API to a specific channel.
-- The particular data which have been sent to telegram is cached for 1 hour to prevent multiple notifications. 
+- The particular data which has been sent to telegram is cached for 1 hour to prevent multiple notifications. 
 - Data from API is updated every 4 seconds.  
 
 ## Thanks
